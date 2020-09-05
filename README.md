@@ -13,7 +13,7 @@ Personal site: [Website](https://mehmetgungoren.com.tr/)
 
 **📫 Where to find me:** 
 
-[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dgungorenmmehmet&suffix=%20Followers)](https://twitter.com/gungorenmmehmet)
+[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dmmetgungoren&suffix=%20Followers)](https://twitter.com/gungorenmmehmet)
 [![Linkedin Badge](https://img.shields.io/badge/-mehmetgungoren-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehmetgungoren/)](https://www.linkedin.com/in/mehmetgungoren/) 
 [![Gmail Badge](https://img.shields.io/badge/-mehgungoren@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mehgungoren@gmail.com)](mailto:mehgungoren@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
