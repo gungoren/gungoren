@@ -43,7 +43,7 @@ Personal site: [Website](https://mehmetgungoren.com.tr/)
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 
-[![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gungoren&layout=compact&langs_count=10&hide=html,css)](https://github-readme-stats.vercel.app/api/top-langs/?username=gungoren&layout=compact&langs_count=10&hide=html,css)
+[![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gungoren&layout=compact&langs_count=10&hide=html,css,jupyter%20notebook)](https://github-readme-stats.vercel.app/api/top-langs/?username=gungoren&layout=compact&langs_count=10&hide=html,css,jupyter%20notebook)
 
 ![Gungoren's github stats](https://github-readme-stats.vercel.app/api?username=gungoren&show_icons=true&line_height=30)
 
