@@ -45,9 +45,9 @@ Personal site: [Website](https://mehmetgungoren.com.tr/)
 
 [![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gungoren&layout=compact&langs_count=10&hide=html,css,jupyter%20notebook)](https://github-readme-stats.vercel.app/api/top-langs/?username=gungoren&layout=compact&langs_count=10&hide=html,css,jupyter%20notebook)
 
+<!-- 
 ![Gungoren's github stats](https://github-readme-stats.vercel.app/api?username=gungoren&show_icons=true&line_height=30)
 
-<!-- 
 **gungoren/gungoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
