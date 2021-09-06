@@ -22,26 +22,73 @@ Personal site: [Website](https://mehmetgungoren.com.tr/)
 
 **👨🏻‍💻 Currently working on:** 
 
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
-<code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
-<code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
-<code><a href="https://aws.amazon.com/lambda/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg"></a></code>
+<p align="left">
+    <a href="https://aws.amazon.com/?nc1=h_ls" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" 
+            alt="anazonwebservices" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="40" height="40" />
+    </a>
+    <a href="https://www.golang.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+            alt="golang" width="40" height="40" />
+    </a>
+    <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" 
+            alt="flask" width="40" height="40" />
+    </a>
+    <a href="https://microservices.io/" target="_blank">
+        <img src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png" 
+            alt="microservices" width="40" height="40" />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" 
+            alt="mongodb" width="40" height="40"/>
+    </a>
+</p>
 
 **💬 Ask me about:** 
 
-<code><a href="https://aws.amazon.com/?nc1=h_ls" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
-<code><a href="https://opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
-<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+<p>
+    <a href="https://aws.amazon.com/?nc1=h_ls" target="_blank">
+        <img width="40" height="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+    </a>
+    <a href="https://www.linux.org/" target="_blank">
+        <img width="40" height="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    </a>
+    <a href="https://www.java.com/" target="_blank">
+        <img width="40" height="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    </a>
+    <a href="https://www.python.org/" target="_blank">
+        <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </a>
+    <a href="https://git-scm.com//" target="_blank">
+        <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    </a>
+    <a href="https://www.tensorflow.org/" target="_blank">
+        <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+    </a>
+    <a href="https://opencv.org/" target="_blank">
+        <img width="40" height="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg">
+    </a>
+    <a href="https://jupyter.org/" target="_blank">
+        <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+    </a>
+</p>
 
 **⛰ Looking forward to learn:** 
 
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<p>
+    <a href="https://www.javascript.com/" target="_blank"><img width="40" height="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
+    <a href="https://reactjs.org/" target="_blank"><img width="40" height="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+</p>
 
 [![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gungoren&layout=compact&langs_count=10&hide=html,css,jupyter%20notebook)](https://github-readme-stats.vercel.app/api/top-langs/?username=gungoren&layout=compact&langs_count=10&hide=html,css,jupyter%20notebook)
 
