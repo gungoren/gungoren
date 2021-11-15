@@ -92,5 +92,7 @@ Personal site: [Website](https://mehmetgungoren.com.tr/)
 
 [![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gungoren&layout=compact&langs_count=10&hide=html,css,jupyter%20notebook)](https://github-readme-stats.vercel.app/api/top-langs/?username=gungoren&layout=compact&langs_count=10&hide=html,css,jupyter%20notebook)
 
+<!-- 
 ![](https://komarev.com/ghpvc/?username=gungoren&style=flat-square&color=orange)
+-->
 
