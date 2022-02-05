@@ -17,8 +17,9 @@ Personal site: [Website](https://mehmetgungoren.com.tr/)
 [![Linkedin Badge](https://img.shields.io/badge/-mehmetgungoren-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehmetgungoren/)](https://www.linkedin.com/in/mehmetgungoren/) 
 [![Gmail Badge](https://img.shields.io/badge/-mehgungoren@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mehgungoren@gmail.com)](mailto:mehgungoren@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
-
+<!-- 
 **💼 Currently working as:** Software Engineer at <a href="https://lyrebirdstudio.net/" target="_blank"><b>Lyrebird Studio</b></a>
+--> 
 
 **👨🏻‍💻 Currently working on:** 
 
