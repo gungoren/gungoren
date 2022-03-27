@@ -91,7 +91,11 @@ Personal site: [Website](https://mehmetgungoren.com.tr/)
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
 </p>
 
-[![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gungoren&layout=compact&langs_count=10&hide=html,css,jupyter%20notebook)](https://github-readme-stats.vercel.app/api/top-langs/?username=gungoren&layout=compact&langs_count=10&hide=html,css,jupyter%20notebook)
+<details>
+  <summary>More...</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=gungoren&show_icons=true&count_private=true&theme=dark&include_all_commits=true&line_height=28" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gungoren&layout=compact&langs_count=10&hide=html,css,jupyter%20notebook&show_icons=true&count_private=true&theme=dark" />
+</details>
 
 <!-- 
 ![](https://komarev.com/ghpvc/?username=gungoren&style=flat-square&color=orange)
