@@ -1,0 +1,26 @@
+name: Dynamic README
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 14
+      
+      - run: npm install
+
+      - run: npm run start
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          file_pattern: 'README.md'
+          commit_message: update readme by workflow

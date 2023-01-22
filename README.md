@@ -11,9 +11,8 @@
 [![Website Badge](https://img.shields.io/website?down_color=red&down_message=down&label=https%3A%2F%2Fmehmetgungoren.com&up_color=green&up_message=up&url=https%3A%2F%2Fmehmetgungoren.com)](https://mehmetgungoren.com)
 [![Gmail Badge](https://img.shields.io/badge/-hi@mehmetgungoren.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hi@mehmetgungoren.com)](mailto:hi@mehmetgungoren.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
-<!-- 
-**💼 Currently working as:** Software Engineer at <a href="https://lyrebirdstudio.net/" target="_blank"><b>Lyrebird Studio</b></a>
---> 
+<!-- DATA:START -->
+<!-- DATA:END -->
 
 <details>
   <summary>More...</summary>
