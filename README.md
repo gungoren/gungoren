@@ -11,12 +11,12 @@
 [![Website Badge](https://img.shields.io/website?down_color=red&down_message=down&label=https%3A%2F%2Fmehmetgungoren.com&up_color=green&up_message=up&url=https%3A%2F%2Fmehmetgungoren.com)](https://mehmetgungoren.com)
 [![Gmail Badge](https://img.shields.io/badge/-hi@mehmetgungoren.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hi@mehmetgungoren.com)](mailto:hi@mehmetgungoren.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
+### Recent blog posts
+
 <!-- DATA:START -->
-* Location Based Content with AWS Cloudfront Part II [post](https://mehgungoren.medium.com/location-based-content-with-aws-cloudfront-part-ii-84af16482cb8?source=rss-f5aa7ac13434------2)
-
-* Location Based Content with AWS Cloudfront Part I [post](https://mehgungoren.medium.com/location-based-content-with-aws-cloudfront-part-i-6b22648e6ba5?source=rss-f5aa7ac13434------2)
-
-* AWS Certified Developer Associate Sınav Serüveni [post](https://mehgungoren.medium.com/aws-certified-developer-associate-s%C4%B1nav-ser%C3%BCveni-5f6082ac6f8d?source=rss-f5aa7ac13434------2)
+* [Location Based Content with AWS Cloudfront Part II](https://mehgungoren.medium.com/location-based-content-with-aws-cloudfront-part-ii-84af16482cb8?source=rss-f5aa7ac13434------2) (2023)
+* [Location Based Content with AWS Cloudfront Part I](https://mehgungoren.medium.com/location-based-content-with-aws-cloudfront-part-i-6b22648e6ba5?source=rss-f5aa7ac13434------2) (2023)
+* [AWS Certified Developer Associate Sınav Serüveni](https://mehgungoren.medium.com/aws-certified-developer-associate-s%C4%B1nav-ser%C3%BCveni-5f6082ac6f8d?source=rss-f5aa7ac13434------2) (2020)
 <!-- DATA:END -->
 
 <details>

@@ -9,7 +9,7 @@ const APP = {
 axios.get(APP.FEED).then((resp) => {
   const { items } = resp.data;
   const template = items.reduce((list, item) => {
-    return list + `\n* ${item.title} [post](${item.link})\n`;
+    return list + `\n* [${item.title}](${item.link}) (${item.pubDate.slice(0, 4)})`;
   }, "");
 
   fs.readFile(APP.README_PATH, "utf-8", (err, data) => {
@@ -18,7 +18,7 @@ axios.get(APP.FEED).then((resp) => {
       APP.README_PATH,
       data.replace(
         /<!-- DATA:START -->([\s\S]*?)<!-- DATA:END -->/m,
-        `<!-- DATA:START -->${template}<!-- DATA:END -->`
+        `<!-- DATA:START -->${template}\n<!-- DATA:END -->`
       ),
       "utf-8",
       (err) => {
