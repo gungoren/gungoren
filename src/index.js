@@ -9,7 +9,9 @@ const APP = {
 axios.get(APP.FEED).then((resp) => {
   const { items } = resp.data;
   const template = items.reduce((list, item) => {
-    return list + `\n* [${item.title}](${item.link}) (${item.pubDate.slice(0, 4)})`;
+    const github_links = [...new Set(item.content.match(/(https?:\/\/github\.com\/gungoren[^" ]*)/))];
+    const source = github_links.length ? ` ([source code](${github_links[0]}))`: '';
+    return list + `\n* [${item.title}](${item.link}) (${item.pubDate.slice(0, 4)}) ${source}`;
   }, "");
 
   fs.readFile(APP.README_PATH, "utf-8", (err, data) => {
