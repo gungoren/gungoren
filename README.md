@@ -15,6 +15,11 @@
 ### Recent blog posts from [medium](https://mehgungoren.medium.com)
 
 <!-- DATA:START -->
+* [Personnel Recognition with AWS Rekognition — Part II](https://mehgungoren.medium.com/personnel-recognition-with-aws-rekognition-part-ii-c6e9100709b5?source=rss-f5aa7ac13434------2) (2023)  ([source code](https://github.com/gungoren/personnel-recognition-system))
+* [Personnel Recognition with AWS Rekognition — Part I](https://mehgungoren.medium.com/personnel-recognition-with-aws-rekognition-part-i-c4530f9b3c74?source=rss-f5aa7ac13434------2) (2023) 
+* [Location Based Content with AWS Cloudfront Part II](https://mehgungoren.medium.com/location-based-content-with-aws-cloudfront-part-ii-84af16482cb8?source=rss-f5aa7ac13434------2) (2023)  ([source code](https://github.com/gungoren/cloudfront-location-based-content))
+* [Location Based Content with AWS Cloudfront Part I](https://mehgungoren.medium.com/location-based-content-with-aws-cloudfront-part-i-6b22648e6ba5?source=rss-f5aa7ac13434------2) (2023) 
+* [AWS Certified Developer Associate Sınav Serüveni](https://mehgungoren.medium.com/aws-certified-developer-associate-s%C4%B1nav-ser%C3%BCveni-5f6082ac6f8d?source=rss-f5aa7ac13434------2) (2020) 
 <!-- DATA:END -->
 
 <details>
