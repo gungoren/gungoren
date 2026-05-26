@@ -23,8 +23,3 @@
 * [AWS Certified Developer Associate Sınav Serüveni](https://mehgungoren.medium.com/aws-certified-developer-associate-s%C4%B1nav-ser%C3%BCveni-5f6082ac6f8d?source=rss-f5aa7ac13434------2) (2020) 
 <!-- DATA:END -->
 
-<details>
-  <summary>More...</summary>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gungoren&layout=compact&langs_count=10&hide=html,css,jupyter%20notebook&show_icons=true&count_private=true&theme=dark"  style="width: 49%;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=gungoren&show_icons=true&count_private=true&theme=dark&include_all_commits=true&line_height=28" style="width: 50%;"/>
-</details>
