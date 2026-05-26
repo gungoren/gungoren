@@ -15,6 +15,7 @@
 ### Recent blog posts from [medium](https://mehgungoren.medium.com)
 
 <!-- DATA:START -->
+* [Idempotency Nedir ve Neden Kritik?](https://mehgungoren.medium.com/idempotency-nedir-ve-neden-kritik-907e4de43f42?source=rss-f5aa7ac13434------2) (2026) 
 * [Personnel Recognition with AWS Rekognition — Part II](https://aws.plainenglish.io/personnel-recognition-with-aws-rekognition-part-ii-c6e9100709b5?source=rss-f5aa7ac13434------2) (2023)  ([source code](https://github.com/gungoren/personnel-recognition-system))
 * [Personnel Recognition with AWS Rekognition — Part I](https://aws.plainenglish.io/personnel-recognition-with-aws-rekognition-part-i-c4530f9b3c74?source=rss-f5aa7ac13434------2) (2023) 
 * [Location Based Content with AWS Cloudfront Part II](https://towardsaws.com/location-based-content-with-aws-cloudfront-part-ii-84af16482cb8?source=rss-f5aa7ac13434------2) (2023)  ([source code](https://github.com/gungoren/cloudfront-location-based-content))
