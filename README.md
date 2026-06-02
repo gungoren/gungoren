@@ -15,6 +15,7 @@
 ### Recent blog posts from [medium](https://mehgungoren.medium.com)
 
 <!-- DATA:START -->
+* [Race Condition Nedir ve Nasıl Önlenir?](https://mehgungoren.medium.com/race-condition-nedir-ve-nas%C4%B1l-%C3%B6nlenir-db352f797d89?source=rss-f5aa7ac13434------2) (2026) 
 * [CI/CD Pipeline Design: What Should Run When?](https://mehgungoren.medium.com/ci-cd-pipeline-design-what-should-run-when-2e5cf7a48cc1?source=rss-f5aa7ac13434------2) (2026) 
 * [Idempotency Nedir ve Neden Kritik?](https://mehgungoren.medium.com/idempotency-nedir-ve-neden-kritik-907e4de43f42?source=rss-f5aa7ac13434------2) (2026) 
 * [Personnel Recognition with AWS Rekognition — Part II](https://aws.plainenglish.io/personnel-recognition-with-aws-rekognition-part-ii-c6e9100709b5?source=rss-f5aa7ac13434------2) (2023)  ([source code](https://github.com/gungoren/personnel-recognition-system))
