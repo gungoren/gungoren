@@ -15,6 +15,7 @@
 ### Recent blog posts from [medium](https://mehgungoren.medium.com)
 
 <!-- DATA:START -->
+* [GitOps: Declarative Deployment with ArgoCD](https://mehgungoren.medium.com/gitops-declarative-deployment-with-argocd-7b884f5181d7?source=rss-f5aa7ac13434------2) (2026) 
 * [Race Condition Nedir ve Nasıl Önlenir?](https://mehgungoren.medium.com/race-condition-nedir-ve-nas%C4%B1l-%C3%B6nlenir-db352f797d89?source=rss-f5aa7ac13434------2) (2026) 
 * [CI/CD Pipeline Design: What Should Run When?](https://mehgungoren.medium.com/ci-cd-pipeline-design-what-should-run-when-2e5cf7a48cc1?source=rss-f5aa7ac13434------2) (2026) 
 * [Idempotency Nedir ve Neden Kritik?](https://mehgungoren.medium.com/idempotency-nedir-ve-neden-kritik-907e4de43f42?source=rss-f5aa7ac13434------2) (2026) 
