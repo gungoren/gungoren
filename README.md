@@ -15,6 +15,7 @@
 ### Recent blog posts from [medium](https://mehgungoren.medium.com)
 
 <!-- DATA:START -->
+* [Canary Deployment: Graduating Risk in Production](https://mehgungoren.medium.com/canary-deployment-graduating-risk-in-production-ef9941cad969?source=rss-f5aa7ac13434------2) (2026) 
 * [Feature Flag Nedir ve Nasıl Kullanılır?](https://mehgungoren.medium.com/feature-flag-nedir-ve-nas%C4%B1l-kullan%C4%B1l%C4%B1r-92ce0fd412ea?source=rss-f5aa7ac13434------2) (2026) 
 * [GitOps: Declarative Deployment with ArgoCD](https://mehgungoren.medium.com/gitops-declarative-deployment-with-argocd-7b884f5181d7?source=rss-f5aa7ac13434------2) (2026) 
 * [Race Condition Nedir ve Nasıl Önlenir?](https://mehgungoren.medium.com/race-condition-nedir-ve-nas%C4%B1l-%C3%B6nlenir-db352f797d89?source=rss-f5aa7ac13434------2) (2026) 
@@ -24,6 +25,5 @@
 * [Personnel Recognition with AWS Rekognition — Part I](https://aws.plainenglish.io/personnel-recognition-with-aws-rekognition-part-i-c4530f9b3c74?source=rss-f5aa7ac13434------2) (2023) 
 * [Location Based Content with AWS Cloudfront Part II](https://towardsaws.com/location-based-content-with-aws-cloudfront-part-ii-84af16482cb8?source=rss-f5aa7ac13434------2) (2023)  ([source code](https://github.com/gungoren/cloudfront-location-based-content))
 * [Location Based Content with AWS Cloudfront Part I](https://towardsaws.com/location-based-content-with-aws-cloudfront-part-i-6b22648e6ba5?source=rss-f5aa7ac13434------2) (2023) 
-* [AWS Certified Developer Associate Sınav Serüveni](https://mehgungoren.medium.com/aws-certified-developer-associate-s%C4%B1nav-ser%C3%BCveni-5f6082ac6f8d?source=rss-f5aa7ac13434------2) (2020) 
 <!-- DATA:END -->
 
