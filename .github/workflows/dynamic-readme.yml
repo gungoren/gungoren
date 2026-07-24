@@ -22,5 +22,5 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          file_pattern: 'README.md'
+          file_pattern: 'README.md data/posts.json'
           commit_message: update readme by workflow
