@@ -17,6 +17,7 @@
 <!-- DATA:START -->
 ### 2026
 
+- 2026-08-03 · `TR` [B-Tree: PostgreSQL Index’leri Neden Bu Kadar Hızlı?](https://mehgungoren.medium.com/b-tree-postgresql-indexleri-neden-bu-kadar-h%C4%B1zl%C4%B1-e8881d9f6792?source=rss-f5aa7ac13434------2)
 - 2026-07-30 · `EN` [Kubernetes Operators: Automation with Custom Resources](https://mehgungoren.medium.com/kubernetes-operators-automation-with-custom-resources-ee06f910bf82?source=rss-f5aa7ac13434------2)
 - 2026-07-27 · `TR` [MVCC: Veritabanı Lock Olmadan Nasıl Çalışır?](https://mehgungoren.medium.com/mvcc-veritaban%C4%B1-lock-olmadan-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-37359573d93b?source=rss-f5aa7ac13434------2)
 - 2026-07-23 · `EN` [Serverless Cold Start: Warming Up Lambda](https://mehgungoren.medium.com/serverless-cold-start-warming-up-lambda-c12b148c2408?source=rss-f5aa7ac13434------2)
