@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him
 - 📫 How to reach me: hi at mehmetgungoren dot com
 
-[![Linkedin Badge](https://img.shields.io/badge/-mehmetgungoren-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehmetgungoren/)](https://www.linkedin.com/in/mehmetgungoren/)
+[![Linkedin Badge](https://img.shields.io/badge/Li-mehmetgungoren-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehmetgungoren/)](https://www.linkedin.com/in/mehmetgungoren/)
 [![Twitter Badge](https://img.shields.io/badge/x-mehmetgungoren-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/mmetgungoren/)](https://www.twitter.com/mmetgungoren/)
 [![Medium](https://img.shields.io/badge/mehgungoren-12100E?style=flat-square&logo=medium&logoColor=white)](https://mehgungoren.medium.com)
 [![Gmail Badge](https://img.shields.io/badge/-hi@mehmetgungoren.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hi@mehmetgungoren.com)](mailto:hi@mehmetgungoren.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
