@@ -15,6 +15,7 @@
 <!-- DATA:START -->
 ### 2026
 
+- 2026-08-31 · `TR` [CAP Teoremi: Pratikte Ne Anlama Gelir?](https://mehgungoren.medium.com/cap-teoremi-pratikte-ne-anlama-gelir-3b8fa4af1095?source=rss-f5aa7ac13434------2)
 - 2026-08-27 · `EN` [Network Policies: Kubernetes Segmentation](https://mehgungoren.medium.com/network-policies-kubernetes-segmentation-cf7fd0e5547f?source=rss-f5aa7ac13434------2)
 - 2026-08-24 · `TR` [Sharding Stratejileri: Tek Veritabanı Artık Yetmiyorsa](https://mehgungoren.medium.com/sharding-stratejileri-tek-veritaban%C4%B1-art%C4%B1k-yetmiyorsa-4f4c500d273c?source=rss-f5aa7ac13434------2)
 - 2026-08-20 · `EN` [StatefulSets vs Deployments: When to Use What](https://mehgungoren.medium.com/statefulsets-vs-deployments-when-to-use-what-6a5cc7ec3c9f?source=rss-f5aa7ac13434------2)
