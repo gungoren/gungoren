@@ -15,6 +15,7 @@
 <!-- DATA:START -->
 ### 2026
 
+- 2026-09-03 · `EN` [Helm: Package Manager for Kubernetes](https://mehgungoren.medium.com/helm-package-manager-for-kubernetes-c8c63a485710?source=rss-f5aa7ac13434------2)
 - 2026-08-31 · `TR` [CAP Teoremi: Pratikte Ne Anlama Gelir?](https://mehgungoren.medium.com/cap-teoremi-pratikte-ne-anlama-gelir-3b8fa4af1095?source=rss-f5aa7ac13434------2)
 - 2026-08-27 · `EN` [Network Policies: Kubernetes Segmentation](https://mehgungoren.medium.com/network-policies-kubernetes-segmentation-cf7fd0e5547f?source=rss-f5aa7ac13434------2)
 - 2026-08-24 · `TR` [Sharding Stratejileri: Tek Veritabanı Artık Yetmiyorsa](https://mehgungoren.medium.com/sharding-stratejileri-tek-veritaban%C4%B1-art%C4%B1k-yetmiyorsa-4f4c500d273c?source=rss-f5aa7ac13434------2)
