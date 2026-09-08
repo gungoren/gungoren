@@ -1,5 +1,13 @@
 [
   {
+    "guid": "https://medium.com/p/5ce460274db1",
+    "title": "Write-Ahead Log (WAL): Veritabanı Crash’ten Nasıl Kurtulur?",
+    "link": "https://mehgungoren.medium.com/write-ahead-log-wal-veritaban%C4%B1-crashten-nas%C4%B1l-kurtulur-5ce460274db1?source=rss-f5aa7ac13434------2",
+    "pubDate": "2026-09-07 17:01:05",
+    "lang": "tr",
+    "source": ""
+  },
+  {
     "guid": "https://medium.com/p/c8c63a485710",
     "title": "Helm: Package Manager for Kubernetes",
     "link": "https://mehgungoren.medium.com/helm-package-manager-for-kubernetes-c8c63a485710?source=rss-f5aa7ac13434------2",
