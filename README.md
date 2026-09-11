@@ -15,6 +15,7 @@
 <!-- DATA:START -->
 ### 2026
 
+- 2026-09-10 · `EN` [Multi-region Deployment: Active-Active Setup](https://mehgungoren.medium.com/multi-region-deployment-active-active-setup-5d2ca43ae427?source=rss-f5aa7ac13434------2)
 - 2026-09-07 · `TR` [Write-Ahead Log (WAL): Veritabanı Crash’ten Nasıl Kurtulur?](https://mehgungoren.medium.com/write-ahead-log-wal-veritaban%C4%B1-crashten-nas%C4%B1l-kurtulur-5ce460274db1?source=rss-f5aa7ac13434------2)
 - 2026-09-03 · `EN` [Helm: Package Manager for Kubernetes](https://mehgungoren.medium.com/helm-package-manager-for-kubernetes-c8c63a485710?source=rss-f5aa7ac13434------2)
 - 2026-08-31 · `TR` [CAP Teoremi: Pratikte Ne Anlama Gelir?](https://mehgungoren.medium.com/cap-teoremi-pratikte-ne-anlama-gelir-3b8fa4af1095?source=rss-f5aa7ac13434------2)
