@@ -15,6 +15,7 @@
 <!-- DATA:START -->
 ### 2026
 
+- 2026-09-14 · `TR` [Saga Pattern: Distributed Transaction’ları Yönetmek](https://mehgungoren.medium.com/saga-pattern-distributed-transactionlar%C4%B1-y%C3%B6netmek-95c91f9935c6?source=rss-f5aa7ac13434------2)
 - 2026-09-10 · `EN` [Multi-region Deployment: Active-Active Setup](https://mehgungoren.medium.com/multi-region-deployment-active-active-setup-5d2ca43ae427?source=rss-f5aa7ac13434------2)
 - 2026-09-07 · `TR` [Write-Ahead Log (WAL): Veritabanı Crash’ten Nasıl Kurtulur?](https://mehgungoren.medium.com/write-ahead-log-wal-veritaban%C4%B1-crashten-nas%C4%B1l-kurtulur-5ce460274db1?source=rss-f5aa7ac13434------2)
 - 2026-09-03 · `EN` [Helm: Package Manager for Kubernetes](https://mehgungoren.medium.com/helm-package-manager-for-kubernetes-c8c63a485710?source=rss-f5aa7ac13434------2)
