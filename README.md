@@ -15,6 +15,7 @@
 <!-- DATA:START -->
 ### 2026
 
+- 2026-09-28 · `TR` [Caching Stratejileri: Read-Through, Write-Behind ve TTL Kararları](https://mehgungoren.medium.com/caching-stratejileri-read-through-write-behind-ve-ttl-kararlar%C4%B1-b0f0bbdb8057?source=rss-f5aa7ac13434------2)
 - 2026-09-24 · `EN` [Database Replication and Failover: Master-Slave Setup](https://mehgungoren.medium.com/database-replication-and-failover-master-slave-setup-bb1f8669f8ad?source=rss-f5aa7ac13434------2)
 - 2026-09-21 · `TR` [Message Queue mu, Event Stream mi? Kafka ile RabbitMQ Arasında Seçim](https://mehgungoren.medium.com/message-queue-mu-event-stream-mi-kafka-ile-rabbitmq-aras%C4%B1nda-se%C3%A7im-97ecdfaabb2b?source=rss-f5aa7ac13434------2)
 - 2026-09-17 · `EN` [Auto-scaling Strategies: HPA and VPA](https://mehgungoren.medium.com/auto-scaling-strategies-hpa-and-vpa-9ae76f99a7aa?source=rss-f5aa7ac13434------2)
