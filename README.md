@@ -15,6 +15,7 @@
 <!-- DATA:START -->
 ### 2026
 
+- 2026-10-08 · `EN` [Backup and Disaster Recovery: The Unglamorous Essential](https://mehgungoren.medium.com/backup-and-disaster-recovery-the-unglamorous-essential-02e497681cb1?source=rss-f5aa7ac13434------2)
 - 2026-10-05 · `TR` [Rate Limiting Nasıl Tasarlanır?](https://mehgungoren.medium.com/rate-limiting-nas%C4%B1l-tasarlan%C4%B1r-7875199b0377?source=rss-f5aa7ac13434------2)
 - 2026-10-01 · `EN` [Read Replicas and Load Balancing: Scaling Database Reads](https://mehgungoren.medium.com/read-replicas-and-load-balancing-scaling-database-reads-67828da14c1e?source=rss-f5aa7ac13434------2)
 - 2026-09-28 · `TR` [Caching Stratejileri: Read-Through, Write-Behind ve TTL Kararları](https://mehgungoren.medium.com/caching-stratejileri-read-through-write-behind-ve-ttl-kararlar%C4%B1-b0f0bbdb8057?source=rss-f5aa7ac13434------2)
