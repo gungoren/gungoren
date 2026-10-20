@@ -15,6 +15,7 @@
 <!-- DATA:START -->
 ### 2026
 
+- 2026-10-19 · `TR` [API Gateway Pattern: 50 Microservice’in Kaosunu Düzene Sokmanın Yolu](https://mehgungoren.medium.com/api-gateway-pattern-50-microservicein-kaosunu-d%C3%BCzene-sokman%C4%B1n-yolu-affa8e1cf2cc?source=rss-f5aa7ac13434------2)
 - 2026-10-15 · `EN` [API Gateway Pattern: Kong and NGINX in Production](https://mehgungoren.medium.com/api-gateway-pattern-kong-and-nginx-in-production-a1f831ea6196?source=rss-f5aa7ac13434------2)
 - 2026-10-12 · `TR` [Copy-on-Write: Git, Docker ve Fork’un Ortak Sırrı](https://mehgungoren.medium.com/copy-on-write-git-docker-ve-forkun-ortak-s%C4%B1rr%C4%B1-7f869fc6ade5?source=rss-f5aa7ac13434------2)
 - 2026-10-08 · `EN` [Backup and Disaster Recovery: The Unglamorous Essential](https://mehgungoren.medium.com/backup-and-disaster-recovery-the-unglamorous-essential-02e497681cb1?source=rss-f5aa7ac13434------2)
