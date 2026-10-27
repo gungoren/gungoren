@@ -13,7 +13,7 @@
 ### Recent blog posts from [medium](https://mehgungoren.medium.com)
 
 <!-- DATA:START -->
-### 2026
+### 2026 (45)
 
 - 2026-10-26 · `TR` [Connection Pooling Neden Önemli? Her Request’te Yeni Bağlantı Açmanın Bedeli](https://mehgungoren.medium.com/connection-pooling-neden-%C3%B6nemli-her-requestte-yeni-ba%C4%9Flant%C4%B1-a%C3%A7man%C4%B1n-bedeli-d3ba78677d32?source=rss-f5aa7ac13434------2)
 - 2026-10-22 · `EN` [API Gateway Pattern: Kong and NGINX in Production](https://mehgungoren.medium.com/api-gateway-pattern-kong-and-nginx-in-production-6acab420325f?source=rss-f5aa7ac13434------2)
@@ -61,14 +61,14 @@
 - 2026-05-28 · `EN` [CI/CD Pipeline Design: What Should Run When?](https://mehgungoren.medium.com/ci-cd-pipeline-design-what-should-run-when-2e5cf7a48cc1)
 - 2026-05-25 · `TR` [Idempotency Nedir ve Neden Kritik?](https://mehgungoren.medium.com/idempotency-nedir-ve-neden-kritik-907e4de43f42)
 
-### 2023
+### 2023 (4)
 
 - 2023-01-23 · `EN` [Personnel Recognition with AWS Rekognition — Part II](https://aws.plainenglish.io/personnel-recognition-with-aws-rekognition-part-ii-c6e9100709b5)
 - 2023-01-23 · `EN` [Personnel Recognition with AWS Rekognition — Part I](https://aws.plainenglish.io/personnel-recognition-with-aws-rekognition-part-i-c4530f9b3c74)
 - 2023-01-19 · `EN` [Location Based Content with AWS Cloudfront Part II](https://towardsaws.com/location-based-content-with-aws-cloudfront-part-ii-84af16482cb8)
 - 2023-01-18 · `EN` [Location Based Content with AWS Cloudfront Part I](https://towardsaws.com/location-based-content-with-aws-cloudfront-part-i-6b22648e6ba5)
 
-### 2020
+### 2020 (1)
 
 - 2020-07-18 · `TR` [AWS Certified Developer Associate Sınav Serüveni](https://mehgungoren.medium.com/aws-certified-developer-associate-s%C4%B1nav-ser%C3%BCveni-5f6082ac6f8d)
 <!-- DATA:END -->
