@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "test": "node --test test/*.test.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,7 @@
   },
   "homepage": "https://github.com/gungoren/gungoren#readme",
   "dependencies": {
-    "axios": "^0.28.0"
+    "axios": "^0.28.0",
+    "fast-xml-parser": "^4.5.7"
   }
 }

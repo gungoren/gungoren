@@ -1,9 +1,8 @@
 const fs = require("fs");
 const path = require("path");
-const axios = require("axios");
+const { fetchFeed } = require("./feed");
 
 const APP = {
-  FEED: "https://api.rss2json.com/v1/api.json?rss_url=https://mehgungoren.medium.com/feed/",
   README_PATH: "README.md",
   DATA_PATH: "data/posts.json",
 };
@@ -70,8 +69,7 @@ const mergePosts = (stored, incoming) => {
 };
 
 const run = async () => {
-  const { data } = await axios.get(APP.FEED);
-  const incoming = (data.items || []).map(toRecord);
+  const incoming = (await fetchFeed()).map(toRecord);
 
   const stored = loadStored(APP.DATA_PATH);
   const posts = mergePosts(stored, incoming);
