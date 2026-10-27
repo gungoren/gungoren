@@ -1,5 +1,21 @@
 [
   {
+    "guid": "https://medium.com/p/d3ba78677d32",
+    "title": "Connection Pooling Neden Önemli? Her Request’te Yeni Bağlantı Açmanın Bedeli",
+    "link": "https://mehgungoren.medium.com/connection-pooling-neden-%C3%B6nemli-her-requestte-yeni-ba%C4%9Flant%C4%B1-a%C3%A7man%C4%B1n-bedeli-d3ba78677d32?source=rss-f5aa7ac13434------2",
+    "pubDate": "2026-10-26 17:01:04",
+    "lang": "tr",
+    "source": ""
+  },
+  {
+    "guid": "https://medium.com/p/6acab420325f",
+    "title": "API Gateway Pattern: Kong and NGINX in Production",
+    "link": "https://mehgungoren.medium.com/api-gateway-pattern-kong-and-nginx-in-production-6acab420325f?source=rss-f5aa7ac13434------2",
+    "pubDate": "2026-10-22 17:01:02",
+    "lang": "en",
+    "source": ""
+  },
+  {
     "guid": "https://medium.com/p/affa8e1cf2cc",
     "title": "API Gateway Pattern: 50 Microservice’in Kaosunu Düzene Sokmanın Yolu",
     "link": "https://mehgungoren.medium.com/api-gateway-pattern-50-microservicein-kaosunu-d%C3%BCzene-sokman%C4%B1n-yolu-affa8e1cf2cc?source=rss-f5aa7ac13434------2",
