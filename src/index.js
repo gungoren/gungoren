@@ -46,7 +46,10 @@ const buildList = (posts) => {
 
   return [...groups.keys()]
     .sort((a, b) => b.localeCompare(a))
-    .map((year) => `### ${year}\n\n${groups.get(year).map(toLine).join("\n")}`)
+    .map((year) => {
+      const items = groups.get(year);
+      return `### ${year} (${items.length})\n\n${items.map(toLine).join("\n")}`;
+    })
     .join("\n\n");
 };
 
