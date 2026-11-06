@@ -13,8 +13,9 @@
 ### Recent blog posts from [medium](https://mehgungoren.medium.com)
 
 <!-- DATA:START -->
-### 2026 (47)
+### 2026 (48)
 
+- 2026-11-05 · `EN` [GraphQL vs REST: API Design Trade-offs](https://mehgungoren.medium.com/graphql-vs-rest-api-design-trade-offs-b4608e25ce44?source=rss-f5aa7ac13434------2)
 - 2026-11-02 · `TR` [Blue-Green Deployment Nasıl Çalışır? 45 Dakikalık Geri Alma Dramı](https://mehgungoren.medium.com/blue-green-deployment-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-45-dakikal%C4%B1k-geri-alma-dram%C4%B1-4d8e9eea87a1?source=rss-f5aa7ac13434------2)
 - 2026-10-29 · `EN` [gRPC for Microservices: Fast Service-to-Service Communication](https://mehgungoren.medium.com/grpc-for-microservices-fast-service-to-service-communication-edc942ccc1c6?source=rss-f5aa7ac13434------2)
 - 2026-10-26 · `TR` [Connection Pooling Neden Önemli? Her Request’te Yeni Bağlantı Açmanın Bedeli](https://mehgungoren.medium.com/connection-pooling-neden-%C3%B6nemli-her-requestte-yeni-ba%C4%9Flant%C4%B1-a%C3%A7man%C4%B1n-bedeli-d3ba78677d32?source=rss-f5aa7ac13434------2)
